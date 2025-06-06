@@ -4,7 +4,7 @@ buildscript {
     extra.apply {
         // Cannot be called "ndkVersion" as that leads to naming collision
         // Changes to this value must be reflected in `./docker/Dockerfile`
-        set("ndkVersionShared", "25.2.9519653")
+        set("ndkVersionShared", "28.1.13356709")
 
     }
 
