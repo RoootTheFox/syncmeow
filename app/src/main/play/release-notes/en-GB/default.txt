@@ -1,3 +1,1 @@
-* update syncthing to v2.0.5
-* refactor syncthing home directory to use env variables
-* add syncmeow version info to STVERSIONEXTRA 
+* update syncthing to v2.0.16
